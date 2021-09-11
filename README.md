@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anilyadav1234
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning manual and automation testing
+- 🌱 I’m currently working on manual and automation testing
 - 💞️ I’m looking to collaborate on java code
 - 📫 How to reach me through mail
 
